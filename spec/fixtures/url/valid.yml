@@ -1,0 +1,7 @@
+---
+- 
+  :type: guild
+  :url:  http://www.wowarmory.com/guild-info.xml?r=Server&n=Guild
+- 
+  :type: character
+  :url:  http://www.wowarmory.com/character-sheet.xml?r=Server&n=Character

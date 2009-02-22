@@ -1,0 +1,7 @@
+---
+-
+  :type: guild
+  :url:  http://guild.example.org
+-
+  :type: character
+  :url:  http://character.example.org

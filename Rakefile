@@ -3,11 +3,11 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
-    s.name = "armory"
-    s.summary = %Q{TODO}
+    s.name = 'armory'
+    s.summary = 'Parser for the World of Warcraft Armory'
     s.email = "<ddollar@gmail.com>"
     s.homepage = "http://github.com/ddollar/armory"
-    s.description = "TODO"
+    s.description = s.summary
     s.authors = ["David Dollar"]
   end
 rescue LoadError
